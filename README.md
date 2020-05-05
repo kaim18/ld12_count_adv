@@ -44,6 +44,7 @@ https://ld12-count.herokuapp.com/ <br>
   - <span style="color:#d8d8d8; ">#d8d8d</span>
 - 3 の倍数または、3 がつく数字の時
   - <span style="color: #f8b516; "> #f8b516</span>
+- 0 は通常時として扱います！
 
 ### カウント文字色
 
@@ -57,3 +58,4 @@ https://ld12-count.herokuapp.com/ <br>
   - <span style="color: #ec6c1f "> #ec6c1f</span>
 - 15 の倍数の時
   - <span style="color: #2a6d39; "> #2a6d39</span>
+- 0 は通常時として扱います！
